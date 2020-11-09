@@ -1,0 +1,4 @@
+Source	Date	Sample	Biden	Trump	Other
+Trafalgar Group	10/14/2020	1,048 LV ±3%	36%	54%	10%
+Axios / SurveyMonkey	10/01/2020	2,475 LV	38%	60%	2%
+Trafalgar Group	8/24/2020	1,002 LV ±3%	38%	54%	8%

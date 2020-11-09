@@ -1,0 +1,14 @@
+Source	Date	Sample	Biden	Trump	Other
+WPA Intelligence	10/13/2020	512 LV ±4.4%	44%	42%	14%
+YouGov/CBS News	10/11/2020	1,036 LV ±4.1%	52%	46%	2%
+NY Times / Siena College	10/07/2020	660 LV ±4.3%	48%	42%	10%
+Qualtrics	9/28/2020	641 LV ±4%	46%	41%	13%
+Fox News	9/24/2020	810 LV ±3%	52%	41%	7%
+NY Times / Siena College	9/12/2020	462 LV ±5.3%	46%	42%	12%
+Qualtrics	9/01/2020	682 LV ±4%	44%	39%	17%
+Anzalone Liszt Grove	5/06/2020	763 LV ±3.6%	49%	45%	6%
+Fox News	1/09/2020	1,505 LV ±2.5%	47%	39%	14%
+Fox News	11/14/2019	1,506 RV ±2.5%	47%	40%	13%
+Emerson College	11/03/2019	1,089 RV ±2.9%	49%	51%	0%
+Gravis Marketing	8/20/2019	926 RV ±3.2%	49%	43%	8%
+Emerson College	3/31/2019	719 RV ±3.6%	52%	48%	0%

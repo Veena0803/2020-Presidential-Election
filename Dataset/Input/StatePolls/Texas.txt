@@ -1,0 +1,11 @@
+Source	Date	Sample	Biden	Trump	Other
+Morning Consult	10/13/2020	3,455 LV ±1.7%	47%	49%	4%
+Univ. of Texas / Texas Tribune	10/09/2020	908 LV ±3.3%	45%	50%	5%
+Crosswind Media	10/08/2020	1,000 LV ±3%	44%	51%	5%
+Civiqs	10/07/2020	895 LV ±3.4%	48%	48%	4%
+UMass Lowell	9/29/2020	882 LV ±4.3%	46%	50%	4%
+Quinnipiac	9/24/2020	1,078 LV ±3%	45%	50%	5%
+NY Times / Siena College	9/24/2020	653 LV ±4.3%	43%	46%	11%
+YouGov/CBS News	9/20/2020	1,140 LV ±3.5%	46%	48%	6%
+Public Policy	9/08/2020	743 RV	47%	48%	5%
+UT Tyler	9/06/2020	901 LV ±3.3%	46%	48%	6%

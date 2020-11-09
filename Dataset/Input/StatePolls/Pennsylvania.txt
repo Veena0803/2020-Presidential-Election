@@ -1,0 +1,11 @@
+Source	Date	Sample	Biden	Trump	Other
+Hill-HarrisX	10/16/2020	992 LV	51%	46%	3%
+InsiderAdvantage	10/15/2020	400 LV ±4.9%	46%	43%	11%
+RMG Research	10/14/2020	800 LV	49%	43%	8%
+Trafalgar Group	10/13/2020	1,034 LV ±3%	47%	45%	8%
+Morning Consult	10/13/2020	2,610 LV ±1.9%	52%	44%	4%
+Ipsos/Reuters	10/12/2020	622 LV ±5%	51%	44%	5%
+Baldwin Wallace Univ.	10/11/2020	1,140 LV ±3.1%	50%	45%	5%
+Redfield & Wilton	10/09/2020	927 LV ±3.2%	49%	42%	9%
+Quinnipiac	10/07/2020	1,211 LV ±2.8%	54%	41%	5%
+CNBC/Change Research	10/06/2020	468 LV	50%	46%	4%

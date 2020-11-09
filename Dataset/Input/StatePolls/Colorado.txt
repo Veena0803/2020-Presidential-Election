@@ -1,0 +1,17 @@
+Source	Date	Sample	Biden	Trump	Other
+Keating Research	10/15/2020	519 LV ±4.3%	54%	39%	7%
+Civiqs	10/15/2020	1,013 LV ±3.6%	54%	42%	4%
+Morning Consult	10/13/2020	837 LV ±3.4%	54%	40%	6%
+SurveyUSA	10/08/2020	1,021 LV ±3.9%	50%	40%	10%
+Fabrizio Ward / Hart Research	9/10/2020	800 LV ±3.6%	50%	40%	10%
+Global Strategy Group	9/03/2020	800 LV ±3.5%	53%	41%	6%
+Morning Consult	9/03/2020	638 LV ±4%	51%	41%	8%
+Morning Consult	9/01/2020	N/A	51%	41%	8%
+Public Policy	7/28/2020	891 RV	54%	41%	5%
+Morning Consult	7/28/2020	616 LV ±4%	52%	39%	9%
+Public Policy	7/01/2020	840 RV	56%	39%	5%
+Global Strategy Group	5/18/2020	800 RV ±3.5%	53%	40%	7%
+Keating Research	5/06/2020	600 LV ±4%	55%	35%	10%
+Montana State U.	5/05/2020	380 LV	53%	35%	12%
+Emerson College	8/20/2019	1,000 RV ±3%	55%	45%	0%
+Fabrizio Ward	7/31/2019	600 LV ±4%	51%	42%	7%

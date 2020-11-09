@@ -1,0 +1,20 @@
+Source	Date	Sample	Biden	Trump	Other
+Axios / SurveyMonkey	10/17/2020	22,318 LV	62%	36%	2%
+SurveyUSA	9/29/2020	588 LV ±5.3%	59%	32%	9%
+Redfield & Wilton	9/27/2020	1,733 LV ±2.2%	62%	28%	10%
+UC Berkeley	9/25/2020	5,942 LV ±2%	67%	28%	5%
+PPIC	9/17/2020	1,168 LV ±4.3%	60%	31%	9%
+Spry Strategies	9/07/2020	600 LV ±4%	56%	39%	5%
+Redfield & Wilton	8/14/2020	2,000 RV	61%	25%	14%
+UC Berkeley	8/04/2020	6,756 LV ±2%	67%	28%	5%
+PPIC	6/04/2020	1,048 LV ±4.6%	57%	33%	10%
+SurveyUSA	5/20/2020	537 LV ±5.4%	58%	30%	12%
+Emerson College	5/11/2020	800 LV ±3.4%	59%	29%	12%
+Public Policy	4/01/2020	962 RV	67%	29%	4%
+CNN/SSRS	2/28/2020	951 LV ±3.3%	60%	35%	5%
+USC	2/20/2020	1,200 LV ±3.1%	60%	30%	10%
+SurveyUSA	1/21/2020	1,967 RV ±2.8%	59%	35%	6%
+CNN/SSRS	12/11/2019	1,011 RV ±3.4%	56%	36%	8%
+SurveyUSA	9/18/2019	1,785 RV ±3.2%	57%	31%	12%
+Emerson College	9/17/2019	830 RV ±3.3%	64%	36%	0%
+SurveyUSA	8/07/2019	2,184 RV ±2.7%	61%	27%	12%
